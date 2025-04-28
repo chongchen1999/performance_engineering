@@ -1,2 +1,4 @@
 ref/
 build/
+*.zip
+*.tar.gz
